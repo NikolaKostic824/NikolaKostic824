@@ -12,13 +12,7 @@ Hello! I'm Nikola Kostić, a passionate software developer and technology enthus
 - JavaScript
 - HTML/CSS
 
-## Language Usage
-
 ### Programming Languages
-
-## Programming Languages
-
-## Programming Languages
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
