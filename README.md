@@ -9,10 +9,8 @@ Hello! I'm Nikola Kostić, a passionate software developer and technology enthus
 - Swift UI
 - React.js
 - Vue.js
-- Python
 - JavaScript
 - HTML/CSS
-- SQL
 
 ## Language Usage
 
