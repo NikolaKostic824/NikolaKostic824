@@ -48,6 +48,7 @@ In my free time, I enjoy exploring new technologies and enhancing my skills. Cur
 
 ## Contact
 
-If you have any questions, suggestions, or want to collaborate on projects, feel free to contact me via email at [nikola.kostic824@gmail.com](mailto:nikola.kostic824@gmail.com). You can also connect with me on [LinkedIn]([https://www.linkedin.com/in/your-name/)](https://www.linkedin.com/in/nikola-kostic8/) to stay updated on my work.
+If you have any questions, suggestions, or want to collaborate on projects, feel free to contact me via email at [nikola.kostic824@gmail.com](mailto:nikola.kostic824@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/nikola-kostic8/) to stay updated on my work.
+
 
 Thank you for visiting my GitHub profile! 💻
